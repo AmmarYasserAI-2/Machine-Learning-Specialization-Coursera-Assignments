@@ -6,6 +6,7 @@
 This repository contains my solutions to assignments from the **Machine Learning Specialization by DeepLearning.AI** on Coursera.
 
 Currently includes:
+- ✅ **Course 1: Supervised Machine Learning: Regression and Classification** – Completed (No assignments provided in this course)
 - ✅ **Course 2: Advanced Learning Algorithms** – Completed
 - ⏳ **Course 3: Unsupervised Learning, Recommenders, and Reinforcement Learning** – In Progress
 
