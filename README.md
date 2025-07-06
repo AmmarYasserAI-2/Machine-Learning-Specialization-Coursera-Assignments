@@ -1,5 +1,7 @@
 
 # Machine Learning Specialization – Coursera Assignments
+![alt text](image.png)
+![alt text](image-1.png)
 
 This repository contains my solutions to assignments from the **Machine Learning Specialization by DeepLearning.AI** on Coursera.
 
