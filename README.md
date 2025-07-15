@@ -12,11 +12,11 @@ Currently includes:
 
 ---
 
-## 📂 Folder Structure
+## Folder Structure
 
 [Machine-Learning-Specialization-Coursera-Assignments](https://github.com/AmmarYasserAI-2/Machine-Learning-Specialization-Coursera-Assignments)  
 │  
-├── [Advanced-Learning-Algorithms](https://github.com/AmmarYasserAI-2/Machine-Learning-Coursera-Assignments/tree/main/Advanced%20Learning%20algorithms%20course)                 # Course 2 – Completed  
+├── [Advanced-Learning-Algorithms](https://github.com/AmmarYasserAI-2/Machine-Learning-Coursera-Assignments/tree/main/Advanced%20Learning%20algorithms%20course)                 
 │   ├── [1-Neural-Networks-for-Binary-Classification](https://github.com/AmmarYasserAI-2/Machine-Learning-Coursera-Assignments/tree/main/Advanced%20Learning%20algorithms%20course/1.%20Neural%20Networks%20for%20Binary%20Classification)  
 │   ├── [2-Neural-Networks-for-Multiclass-Classification](https://github.com/AmmarYasserAI-2/Machine-Learning-Coursera-Assignments/tree/main/Advanced%20Learning%20algorithms%20course/2.%20Neural%20Networks%20for%20Multiclass%20Classification)  
 │   ├── [3-Advice-for-Applying-Machine-Learning](https://github.com/AmmarYasserAI-2/Machine-Learning-Coursera-Assignments/tree/main/Advanced%20Learning%20algorithms%20course/3.%20Advice%20for%20Applying%20Machine%20Learning)  
